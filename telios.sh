@@ -43,4 +43,24 @@ do
     esac
 done
 
+
+function stress()
+{
+    # TODO - Research unique function parameters.
+    echo ""
+}
+
+function slayer()
+{
+    # TODO - Ask for the amount of drives that SHOULD be present. Compare count, gather drive specifications, init r/w and SMART test,
+    # and store in slayer file for overview function.
+    echo ""
+}
+
+function overview()
+{
+    # TODO - Write all logs into unique file, then print for easy view on script completion.
+    echo ""
+}
+
 $SHELL
